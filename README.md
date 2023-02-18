@@ -1,6 +1,8 @@
 
 AlphaZero implementation based on the paper "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm".
 
+Done by : Chaimaa Akharaze and Maroua El-Arni
+
 The algorithm learns to play the Connect4 game. It uses Monte Carlo Tree Search and a Deep Residual Network to evaluate
 the board state and play the most optimal move.
 
